@@ -1,0 +1,14 @@
+**/*.png
+**/*.jpg
+**/*.tif
+**/*.tar
+**/*.pth
+**/*.jp2
+**/*.xml
+**/*.zip
+
+__pycache__/
+
+
+
+!test_images/test.tif
